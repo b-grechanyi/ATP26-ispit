@@ -22,6 +22,8 @@ A totally not biased ranking of household pets:
 4. Cats 🐱
 5. Dogs 🐶
 
+I added this sencence by merging a branch with main. ✌️
+
 | Parts of business | Description |
 | ----------- | ----------- |
 | Seller | Produces |
